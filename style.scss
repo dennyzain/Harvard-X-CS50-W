@@ -1,0 +1,11 @@
+$color: red;
+$color-2: springgreen;
+h1 {
+  color: $color;
+  background-color: $color-2;
+}
+
+// for using sass you must be installed sass in your system and compile it to css
+// command automatically compiling you scss file:---------- sass --watch style.scss:style.css
+// in sass you can use the inheritance features
+// you can check on detail sass-lang.com
