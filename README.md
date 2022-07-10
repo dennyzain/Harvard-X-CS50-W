@@ -1,10 +1,12 @@
-# Web Programming with Brian Yu (Harvard X CS50)
+# 2-PYTHON
 
-<img src="https://github.com/dennyzain/Harvard-X-CS50-W/blob/master/assets/opening.gif" width="400" height="200"/>
+### data structures
 
-### notes
+<img src="https://github.com/dennyzain/Harvard-X-CS50-W/blob/2-PYTHON/assets/data_structures.png" width="500" height="300" alt="data-structures">
 
-- change branch to see other sections
+### alternative links
+
+https://www.w3schools.com/python/default.asp
 
 ### if you wanna learn the same things me as well
 
