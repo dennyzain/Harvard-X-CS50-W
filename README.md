@@ -6,7 +6,7 @@
 
 ### status code
 
-<img src="https://github.com/dennyzain/Harvard-X-CS50-W/blob/3-DJANGO/assets/code_status.png" width="500" height="300" alt="code-status">
+<img src="https://github.com/dennyzain/Harvard-X-CS50-W/blob/3-DJANGO/assets/code_status.jpg" width="500" height="300" alt="code-status">
 
 
 ### alternative links
