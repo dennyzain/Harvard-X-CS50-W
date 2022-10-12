@@ -1,0 +1,10 @@
+{% extends './../layout.html' %} {% block body %}
+<h1>lists siswa di albana paling ganteng</h1>
+<ul>
+  {% for list in lists %}
+  <li>{{list}}</li>
+  {% endfor %}
+</ul>
+<a href="{% url 'add' %}">add student</a>
+
+{% endblock %}

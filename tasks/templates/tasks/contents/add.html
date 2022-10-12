@@ -1,0 +1,9 @@
+{% extends '../layout.html' %} {% block body %}
+<h1>tambah siswa ke kelas orang ganteng</h1>
+<form action="{% url 'add' %}" method="post">
+  {% csrf_token %}
+  <input type="text" name="name" />
+  <input type="submit" value="submit" />
+</form>
+<a href="{% url 'index' %}">back to lists</a>
+{% endblock %}
